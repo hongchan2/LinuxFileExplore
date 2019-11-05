@@ -17,8 +17,16 @@
 <br>
 
 + **개발 환경**
+  
   + Ubuntu Linux 16.04
+  
   + Vim
+  
+    
+  
++ **개발 언어**
+  
+  + Bash Shell Script
 
 <br>
 
